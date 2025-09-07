@@ -135,9 +135,13 @@ The proposed system will provide a **functional prototype** with the following c
 
 ---
 
-## Prototype Preview
+## Prototype & Prototype Preview
+<img width="500" height="500" alt="Frontend Sample" src="https://github.com/user-attachments/assets/8a4fc330-67e6-42d5-9772-8fd7b0d02e3d" />
 
-*(Screenshots, UI mockups, and flowcharts to be added here.)*
+
+<img width="500" height="500" alt="Untitled diagram _ Mermaid Chart-2025-09-07-085154" src="https://github.com/user-attachments/assets/0083c646-1f01-41d5-8ceb-18d9ddedad94" />
+
+
 
 ---
 
