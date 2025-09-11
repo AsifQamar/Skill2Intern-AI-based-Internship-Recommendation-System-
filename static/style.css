@@ -81,7 +81,6 @@ header nav a:hover {
     border-radius: 8px;
     box-shadow: var(--card-shadow);
 }
-/* ... (rest of form styles are the same) */
 .form-container h1 { color: var(--primary-blue); margin-top: 0; font-size: 1.8rem; }
 .form-container p { color: #666; margin-bottom: 30px; }
 .form-group { margin-bottom: 20px; }
@@ -167,7 +166,6 @@ button[type="submit"]:hover { background-color: #e07020; }
 }
 
 .hidden { display: none; }
-/* ... (loading spinner styles are the same) */
 #loading { text-align: center; padding: 20px; }
 .spinner { border: 4px solid rgba(0, 0, 0, 0.1); width: 36px; height: 36px; border-radius: 50%; border-left-color: var(--primary-orange); animation: spin 1s ease infinite; margin: 0 auto 10px; }
 @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
