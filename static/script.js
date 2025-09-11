@@ -61,8 +61,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const card = document.createElement('div');
             card.className = 'recommendation-card';
 
-            // Format the stipend for display, providing a fallback
-            const stipendText = (rec.stipend && !isNaN(rec.stipend))
+            // Format the stipend for display, ensuring 0 is disclosed
+            const stipendText = (rec.stipend !== null && !isNaN(rec.stipend))
                 ? `₹${new Intl.NumberFormat('en-IN').format(rec.stipend)} /month`
                 : 'Not Disclosed';
 
@@ -70,6 +70,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const title = rec.title || 'No Title';
             const company = rec.company_name || 'No Company Name';
             const location = rec.location || 'N/A';
+            const internship_id = rec.internship_id || 'N/A';
+            const sector = rec.sector || 'N/A';
             
             // Add the Match Score from the backend
             const score = rec.score ? rec.score.toFixed(0) : 'N/A';
@@ -80,11 +82,13 @@ document.addEventListener('DOMContentLoaded', () => {
                     <p class="company">${company}</p>
                 </div>
                 <div class="card-details">
+                    <p><strong>Internship ID:</strong> ${internship_id}</p>
+                    <p><strong>Sector:</strong> ${sector}</p>
                     <p class="card-stipend">💰 ${stipendText}</p>
                     <p><strong>📍 Location:</strong> ${location}</p>
                     <p><strong>🎯 Match Score:</strong> ${score}</p>
                 </div>
-                <p class="card-description">${rec.description || 'No description available.'}</p>
+                
             `;
             recommendationsDiv.appendChild(card);
         });
