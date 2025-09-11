@@ -1,96 +1,102 @@
-document.addEventListener('DOMContentLoaded', () => {
-    const form = document.getElementById('recommendation-form');
-    const resultsContainer = document.getElementById('results-container');
-    const recommendationsDiv = document.getElementById('recommendations');
-    const loadingDiv = document.getElementById('loading');
-    const errorDiv = document.getElementById('error-message');
+from flask import Flask, render_template, request, jsonify
+import pandas as pd
 
-    form.addEventListener('submit', async (e) => {
-        e.preventDefault(); // Stop the form from reloading the page
+app = Flask(__name__)
 
-        // 1. Show loading spinner and clear previous results
-        resultsContainer.classList.remove('hidden');
-        loadingDiv.classList.remove('hidden');
-        errorDiv.classList.add('hidden');
-        recommendationsDiv.innerHTML = '';
+# --- Load and Prepare Internship Data ---
+try:
+    # Load the original CSV file
+    internships_df = pd.read_csv('data/internship.csv')
+    
+    # Clean the 'stipend' column
+    internships_df['stipend'] = internships_df['stipend'].str.replace('₹', '').str.replace('/month', '').str.strip()
+    internships_df['stipend'] = pd.to_numeric(internships_df['stipend'], errors='coerce').fillna(0).astype(int)
+    
+    internships_df.fillna('', inplace=True)
+    
+except FileNotFoundError:
+    print("Error: 'internship.csv' not found. Make sure the file is in the 'data' directory.")
+    exit()
 
-        // 2. Get form data and map it to the keys the backend expects
-        const formData = new FormData(form);
-        const candidateData = {
-            qualification: formData.get('education'),
-            skills: formData.get('skills'),
-            sector_interested: formData.get('sector_interests'),
-            location_interested: formData.get('location')
-        };
+# --- Scoring Weights for Accuracy ---
+WEIGHT_SKILL = 15
+WEIGHT_LOCATION = 10
+WEIGHT_SECTOR = 5
+WEIGHT_SKILL_PERCENTAGE = 10 # Bonus for matching a high percentage of skills
 
-        try {
-            // 3. Send the corrected data to the Flask backend
-            const response = await fetch('/recommend', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify(candidateData),
-            });
+# --- Flexible Education Hierarchy ---
+# A higher number indicates a more advanced degree.
+EDUCATION_LEVELS = {
+    '10th pass': 0,
+    '12th pass': 1,
+    'diploma': 2,
+    'ba': 3, 'b.sc': 3, 'b.com': 3, 'bba': 3, 'b.tech': 3, 'b.design': 3, 'b.pharma': 3,
+    'ma': 4, 'm.sc': 4, 'mba': 4, 'm.tech': 4, 'm.pharma': 4
+}
 
-            if (!response.ok) {
-                throw new Error('Something went wrong with the request.');
-            }
+@app.route('/')
+def home():
+    """Serves your main HTML page."""
+    return render_template('index.html')
 
-            const recommendations = await response.json();
+@app.route('/recommend', methods=['POST'])
+def recommend():
+    """
+    API endpoint that receives candidate data and returns the most accurate recommendations.
+    """
+    data = request.get_json()
+    
+    # Extract candidate details from the frontend
+    user_qualification = data.get('qualification', '').lower()
+    user_skills_str = data.get('skills', '').lower()
+    user_sector = data.get('sector_interested', '').lower()
+    user_location = data.get('location_interested', '').lower()
+    
+    user_skills = set(skill.strip() for skill in user_skills_str.split(',') if skill.strip())
+    user_education_level = EDUCATION_LEVELS.get(user_qualification, -1)
 
-            // 4. Hide loading spinner and display results
-            loadingDiv.classList.add('hidden');
-            displayRecommendations(recommendations);
+    scored_internships = []
 
-        } catch (error) {
-            // 5. Handle any errors
-            loadingDiv.classList.add('hidden');
-            errorDiv.textContent = `Error: ${error.message}`;
-            errorDiv.classList.remove('hidden');
-        }
-    });
+    for index, internship in internships_df.iterrows():
+        
+        # --- Rule 1: Flexible Education Check ---
+        required_education = internship['required_education'].lower()
+        required_education_level = EDUCATION_LEVELS.get(required_education, 0)
+        
+        if user_education_level < required_education_level:
+            continue # Skip if user's education is not sufficient
 
-    function displayRecommendations(recs) {
-        if (!recs || recs.length === 0) {
-            recommendationsDiv.innerHTML = '<p style="text-align: center;">No matching internships found. Please try different criteria.</p>';
-            return;
-        }
+        # --- Rule 2: Calculate Weighted Match Score ---
+        current_score = 0
+        
+        # Score for location match
+        if user_location and user_location == internship['location'].lower():
+            current_score += WEIGHT_LOCATION
 
-        recs.forEach(rec => {
-            const card = document.createElement('div');
-            card.className = 'recommendation-card';
-
-            // Format the stipend for display, ensuring 0 is disclosed
-            const stipendText = (rec.stipend !== null && !isNaN(rec.stipend))
-                ? `₹${new Intl.NumberFormat('en-IN').format(rec.stipend)} /month`
-                : 'Not Disclosed';
-
-            // Ensure other data fields have fallbacks
-            const title = rec.title || 'No Title';
-            const company = rec.company_name || 'No Company Name';
-            const location = rec.location || 'N/A';
-            const internship_id = rec.internship_id || 'N/A';
-            const sector = rec.sector || 'N/A';
+        # Score for sector match
+        if user_sector and user_sector == internship['sector'].lower():
+            current_score += WEIGHT_SECTOR
+        
+        # Score for skill matches
+        required_skills = set(skill.strip() for skill in internship['required_skills'].lower().split(',') if skill.strip())
+        if required_skills:
+            matching_skills_count = len(user_skills.intersection(required_skills))
+            current_score += matching_skills_count * WEIGHT_SKILL
             
-            // Add the Match Score from the backend
-            const score = rec.score ? rec.score.toFixed(0) : 'N/A';
+            # Bonus score for matching a higher percentage of skills
+            skill_match_ratio = matching_skills_count / len(required_skills)
+            current_score += skill_match_ratio * WEIGHT_SKILL_PERCENTAGE
 
-            card.innerHTML = `
-                <div class="card-header">
-                    <h3>${title}</h3>
-                    <p class="company">${company}</p>
-                </div>
-                <div class="card-details">
-                    <p><strong>Internship ID:</strong> ${internship_id}</p>
-                    <p><strong>Sector:</strong> ${sector}</p>
-                    <p class="card-stipend">💰 ${stipendText}</p>
-                    <p><strong>📍 Location:</strong> ${location}</p>
-                    <p><strong>🎯 Match Score:</strong> ${score}</p>
-                </div>
-                
-            `;
-            recommendationsDiv.appendChild(card);
-        });
-    }
-});
+        if current_score > 0:
+            internship_data = internship.to_dict()
+            internship_data['score'] = current_score
+            scored_internships.append(internship_data)
+
+    # --- Rule 3: Rank and Select ---
+    sorted_internships = sorted(scored_internships, key=lambda x: x['score'], reverse=True)
+    top_recommendations = sorted_internships[:3]
+
+    return jsonify(top_recommendations)
+
+if __name__ == '__main__':
+    app.run(debug=True)
