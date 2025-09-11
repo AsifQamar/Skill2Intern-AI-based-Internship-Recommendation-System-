@@ -1,0 +1,183 @@
+:root {
+    --primary-orange: #f58634;
+    --primary-blue: #2a3f93;
+    --light-gray: #f4f7fc;
+    --text-color: #333;
+    --border-color: #ddd;
+    --card-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    --stipend-color: #28a745;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: var(--light-gray);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1200px; /* Increased width for multiple cards */
+    margin: 40px auto;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    background-color: #fff;
+    padding: 10px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 40px;
+    margin-right: 15px;
+}
+
+.logo-text {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--primary-blue);
+}
+
+header nav a {
+    text-decoration: none;
+    color: var(--text-color);
+    margin-left: 20px;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+header nav a:hover {
+    color: var(--primary-orange);
+}
+
+.login-btn {
+    background-color: var(--primary-orange);
+    color: #fff !important;
+    padding: 8px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.login-btn:hover {
+    background-color: #e07020;
+}
+
+/* Form Styling */
+.form-container {
+    max-width: 900px;
+    margin: 0 auto 40px auto;
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: var(--card-shadow);
+}
+/* ... (rest of form styles are the same) */
+.form-container h1 { color: var(--primary-blue); margin-top: 0; font-size: 1.8rem; }
+.form-container p { color: #666; margin-bottom: 30px; }
+.form-group { margin-bottom: 20px; }
+.form-group label { display: block; margin-bottom: 8px; font-weight: 500; }
+.form-group input, .form-group select { width: 100%; padding: 12px; border: 1px solid var(--border-color); border-radius: 5px; font-size: 1rem; box-sizing: border-box; }
+.form-group input:focus, .form-group select:focus { outline: none; border-color: var(--primary-orange); box-shadow: 0 0 0 2px rgba(245, 134, 52, 0.2); }
+button[type="submit"] { width: 100%; padding: 15px; background-color: var(--primary-orange); color: #fff; border: none; border-radius: 5px; font-size: 1.1rem; font-weight: 700; cursor: pointer; transition: background-color 0.3s; }
+button[type="submit"]:hover { background-color: #e07020; }
+
+
+/* Results Styling - UPDATED FOR VERTICAL CARDS */
+#results-container h2 {
+    color: var(--primary-blue);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#recommendations {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Space between cards */
+    justify-content: center;
+}
+
+.recommendation-card {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-top: 5px solid var(--primary-blue); /* Changed from left border */
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: var(--card-shadow);
+    transition: transform 0.2s, box-shadow 0.2s;
+    
+    /* Sizing for vertical cards */
+    flex: 1 1 300px; /* Flex-grow, flex-shrink, flex-basis */
+    max-width: 350px;
+    display: flex;
+    flex-direction: column; /* Arrange content vertically */
+}
+
+.recommendation-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.card-header h3 {
+    margin: 0 0 5px 0;
+    color: var(--primary-blue);
+    font-size: 1.2rem;
+}
+
+.card-header .company {
+    font-weight: 500;
+    color: #555;
+    margin: 0;
+    min-height: 40px; /* Give space for company name */
+}
+
+.card-details {
+    margin: 15px 0;
+    font-size: 0.9rem;
+    color: #666;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding: 15px 0;
+}
+
+.card-details p {
+    margin: 0 0 8px 0; /* Space between detail items */
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.card-stipend {
+    font-weight: 700;
+    color: var(--stipend-color);
+}
+
+.card-description {
+    color: #444;
+    flex-grow: 1; /* Pushes the description to take available space */
+}
+
+.hidden { display: none; }
+/* ... (loading spinner styles are the same) */
+#loading { text-align: center; padding: 20px; }
+.spinner { border: 4px solid rgba(0, 0, 0, 0.1); width: 36px; height: 36px; border-radius: 50%; border-left-color: var(--primary-orange); animation: spin 1s ease infinite; margin: 0 auto 10px; }
+@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+#error-message { text-align: center; color: #d9534f; font-weight: 500; }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    header { flex-direction: column; padding: 15px; text-align: center; }
+    header nav { margin-top: 15px; }
+    header nav a { margin: 0 10px; }
+    .container { margin: 20px; padding: 10px; }
+    .recommendation-card { flex-basis: 100%; } /* Cards take full width on small screens */
+}

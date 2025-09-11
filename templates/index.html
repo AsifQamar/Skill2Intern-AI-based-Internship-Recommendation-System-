@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PM Internship Scheme - Recommender</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="https://i.imgur.com/G5g25g3.png" alt="Govt of India Logo" class="logo">
+            <span class="logo-text">PM Internship</span>
+        </div>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Guidelines</a>
+            <a href="#">Eligibility</a>
+            <a href="#" class="login-btn">Login</a>
+        </nav>
+    </header>
+
+    <main class="container">
+        <div class="form-container">
+            <h1>Find Your Perfect Internship 🚀</h1>
+            <p>Tell us about yourself and we'll suggest the best opportunities for you.</p>
+            <form id="recommendation-form">
+                <div class="form-group">
+                    <label for="education">Your Highest Education</label>
+                    <select id="education" name="education">
+                        <option value="10th Pass">10th Pass</option>
+                        <option value="12th Pass">12th Pass</option>
+                        <option value="Diploma">Diploma</option>
+                        <option value="B.Tech">B.Tech</option>
+                        <option value="M.Tech">M.Tech</option>
+                        <option value="BBA">BBA</option>
+                        <option value="MBA">MBA</option>
+                        <option value="B.Pharma">B.Pharma</option>
+                        <option value="M.Pharma">M.Pharma</option>
+                        <option value="B.Design">B.Design</option>
+                        <option value="B.Sc">B.Sc</option>
+                        <option value="M.Sc">M.Sc</option>
+                        <option value="B.Com">B.Com</option>
+                        <option value="BA">BA</option>
+                        <option value="MA">MA</option>
+                    </select>
+                </div>
+                
+                <div class="form-group">
+                    <label for="skills">Your Skills (e.g., Python, Marketing, AutoCAD)</label>
+                    <input type="text" id="skills" name="skills" placeholder="Enter skills separated by commas">
+                </div>
+
+                <div class="form-group">
+                    <label for="sector_interests">Interested Sectors (e.g., IT, Finance, Healthcare)</label>
+                    <input type="text" id="sector_interests" name="sector_interests" placeholder="Enter sectors you are interested in">
+                </div>
+
+                <div class="form-group">
+                    <label for="location">Preferred Location (e.g., Mumbai, Bangalore)</label>
+                    <input type="text" id="location" name="location" placeholder="Enter your preferred city">
+                </div>
+
+                <button type="submit" id="submit-btn">Get Recommendations</button>
+            </form>
+        </div>
+
+        <div id="results-container" class="hidden">
+            <h2>Your Top Recommendations ✨</h2>
+            <div id="recommendations">
+                </div>
+             <div id="loading" class="hidden">
+                <div class="spinner"></div>
+                <p>Finding internships for you...</p>
+            </div>
+            <p id="error-message" class="hidden"></p>
+        </div>
+    </main>
+    
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
