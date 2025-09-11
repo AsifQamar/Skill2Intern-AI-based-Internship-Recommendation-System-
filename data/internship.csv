@@ -24,6 +24,7 @@ INT-MKT-25-022,ViralVibes Agency,Content Marketing Intern,Marketing & Advertisin
 INT-HR-25-023,HireRight Solutions,HR Analytics Intern,Human Resources,"Excel, Python, Power BI, Data Visualization, SQL",Pursuing MBA in HR with analytics focus,Bangalore,₹28000/month
 INT-EDU-25-024,SkillUp Online,Instructional Design Intern,EdTech,"Articulate Storyline, ADDIE model, E-learning",Pursuing Master's in Instructional Design,Pune,₹24000/month
 INT-IT-25-025,DataSphere Inc.,Database Administrator Intern,Information Technology,"SQL, MySQL, PostgreSQL, Database Management",Pursuing BCA or B.Tech in IT,Chennai,₹30000/month
+INT-DS-25-026,LogicLoop AI,Data Analyst Intern,"SQL, Excel, Tableau, Python, Communication",Pursuing Bachelor's in Stats, Math,Gurgaon,₹32000/month
 INT-FIN-25-027,MarketPulse Research,Equity Research Intern,Finance,"Financial Analysis, Equity Valuation, Report Writing",Pursuing CFA or MBA in Finance,Mumbai,₹40000/month
 INT-IT-25-028,Appify Creations,Mobile App Development Intern (Android),Information Technology,"Kotlin, Java, Android Studio, XML, REST APIs",Pursuing B.Tech in Computer Science,Bangalore,₹36000/month
 INT-MKT-25-029,GrowthHackers Digital,SEO Analyst Intern,Marketing & Advertising,"Google Search Console, Ahrefs, SEMrush, On-page SEO",Any degree with SEO certification,Hyderabad,₹23000/month
@@ -40,7 +41,7 @@ INT-ECOM-25-039,StyleUp Fashion,Fashion Merchandising Intern,E-commerce,"Trend A
 INT-MKT-25-040,LeadGen Pro,Sales Intern,Marketing & Advertising,"CRM, Lead Qualification, Cold Calling, Communication",Pursuing BBA or MBA in Sales/Marketing,Pune,₹18000/month
 INT-IT-25-041,CodeCrafters,Full Stack Developer Intern,Information Technology,"MERN Stack (MongoDB, Express, React, Node.js), Git",Pursuing B.Tech in Computer Science,Bangalore,₹38000/month
 INT-DS-25-042,Alpha Analytics,Business Analyst Intern,Data Science & Analytics,"SQL, Tableau, Excel, Requirements Gathering, JIRA",Pursuing MBA or B.Tech,Hyderabad,₹35000/month
-INT-FIN-25-043,SecurePay,Risk Analyst Intern,FinTech,"Risk Assessment, Data Analysis, Excel, SQL",Pursuing degree in Finance, Economics, or Stats,Pune,₹32000/month
+INT-FIN-25-043,SecurePay,Risk Analyst Intern,FinTech,"Risk Assessment, Data Analysis, Excel, SQL",Pursuing degree in Finance,Pune,₹32000/month
 INT-HR-25-044,Culture Connect,Organizational Development Intern,Human Resources,"Change Management, Training, Employee Surveys",Pursuing Master's in Org Psychology or MBA-HR,Mumbai,₹26000/month
 INT-IT-25-045,MobileFirst,iOS App Developer Intern,Information Technology,"Swift, SwiftUI, Xcode, REST APIs, Git",Pursuing B.Tech in Computer Science,Bangalore,₹36000/month
 INT-MKT-25-046,EventMakers,Event Management Intern,Marketing & Advertising,"Event Planning, Vendor Coordination, Budgeting",Pursuing degree in Event Management or Hospitality,Delhi,₹17000/month
@@ -55,7 +56,7 @@ INT-ECOM-25-054,LogiLink,Logistics Coordinator Intern,E-commerce,"Shipment Track
 INT-IT-25-055,Cloud Solutions Inc,Solutions Architect Intern,Information Technology,"AWS, Azure, System Design, Solution Documentation",Pursuing M.Tech or B.Tech in CSE/IT,Bangalore,₹44000/month
 INT-DS-25-056,Statistica,Statistical Analyst Intern,Data Science & Analytics,"R, SAS, Statistical Modeling, Hypothesis Testing",Pursuing Master's in Statistics,Chennai,₹35000/month
 INT-FIN-25-057,Acorn Advisory,Management Consulting Intern,Finance,"Problem Solving, PowerPoint, Excel, Communication",Pursuing MBA from a top-tier institute,Gurgaon,₹60000/month
-INT-MKT-25-058,CopyCraft,Copywriting Intern,Marketing & Advertising,"Creative Writing, Ad Copy, SEO Writing, Grammar",Pursuing BA in English, Journalism, or Marketing,Pune,₹18000/month
+INT-MKT-25-058,CopyCraft,Copywriting Intern,Marketing & Advertising,"Creative Writing, Ad Copy, SEO Writing, Grammar",Pursuing BA in English,Pune,₹18000/month
 INT-IT-25-059,GameOn Studios,Game Developer Intern,Information Technology,"Unity, C#, C++, 3D Modeling, Game Physics",Pursuing B.Tech in Computer Science,Hyderabad,₹35000/month
 INT-DES-25-060,Illustrate It,Illustration Intern,Design,"Adobe Illustrator, Procreate, Digital Painting",Pursuing degree in Fine Arts or Design,Mumbai,₹20000/month
 INT-IT-25-061,Innovatech,R&D Intern (Software),Information Technology,"Algorithm Design, C++, Python, Research",Pursuing M.Tech in Computer Science,Bangalore,₹42000/month
@@ -70,7 +71,7 @@ INT-MKT-25-069,SnapReels,Video Production Intern,Marketing & Advertising,"Premie
 INT-FIN-25-070,Quantify Capital,Quantitative Analyst Intern,Finance,"Python, R, C++, Statistical Arbitrage, Algorithms",Pursuing M.Tech/PhD in Quantitative Finance,Bangalore,₹65000/month
 INT-IT-25-071,SecureSphere,Information Security Intern,Information Technology,"SIEM, Vulnerability Assessment, Compliance",Pursuing B.Tech in Cybersecurity,Chennai,₹39000/month
 INT-DS-25-072,CogniCore,Deep Learning Intern,Data Science & Analytics,"TensorFlow, Keras, CNN, RNN, Python",Pursuing M.Tech in AI/ML,Hyderabad,₹50000/month
-INT-MKT-25-073,Alpha SEO,Link Building Intern,Marketing & Advertising,"Off-page SEO, Ahrefs, Outreach, Content Promotion",Any degree, basic SEO knowledge,Delhi,₹16000/month
+INT-MKT-25-073,Alpha SEO,Link Building Intern,Marketing & Advertising,"Off-page SEO, Ahrefs, Outreach, Content Promotion",Any degree, Delhi,₹16000/month
 INT-IT-25-074,RoboLogic,Robotics Intern,Information Technology,"ROS, C++, Python, SLAM, Embedded Systems",Pursuing B.Tech/M.Tech in Robotics/ECE,Pune,₹40000/month
 INT-HR-25-075,Global Talent,International HR Intern,Human Resources,"Expatriate Management, Cross-cultural Communication",Pursuing MBA in International Business/HR,Gurgaon,₹28000/month
 INT-ECOM-25-076,DigitalMart,Digital Merchandising Intern,E-commerce,"Website Management, Product Listing, SEO, Analytics",Pursuing BBA in Marketing,Bangalore,₹26000/month
@@ -79,7 +80,7 @@ INT-FIN-25-078,InsurTech Secure,Actuarial Intern,Finance,"Statistical Analysis, 
 INT-MKT-25-079,PodPulse,Podcast Production Intern,Marketing & Advertising,"Audio Editing (Audacity/Audition), Content Planning",Any degree with audio editing skills,Delhi,₹18000/month
 INT-DS-25-080,BioStat Solutions,Biostatistician Intern,Data Science & Analytics,"R, SAS, Clinical Trials, Survival Analysis",Pursuing Master's in Biostatistics,Pune,₹38000/month
 INT-IT-25-081,Tech Support Pro,Technical Writer Intern,Information Technology,"Technical Documentation, Markdown, Git, Clear Writing",Pursuing B.Tech or BA in English/Technical Comm,Bangalore,₹25000/month
-INT-HR-25-082,Onboard Easy,HR Onboarding Specialist Intern,Human Resources,"Documentation, Coordination, Communication",Pursuing BBA,any stream,Chennai,₹19000/month
+INT-HR-25-082,Onboard Easy,HR Onboarding Specialist Intern,Human Resources,"Documentation, Coordination, Communication",Pursuing BBA,Chennai,₹19000/month
 INT-MKT-25-083,PPC Wizards,PPC Intern,Marketing & Advertising,"Google Ads, Bing Ads, Bid Management, A/B Testing",Any degree with Google Ads certification,Gurgaon,₹24000/month
 INT-IT-25-084,DataVault,Data Privacy Analyst Intern,Information Technology,"GDPR, Data Governance, Risk Assessment",Pursuing degree in Law or Information Systems,Mumbai,₹35000/month
 INT-DES-25-085,ArchViz,3D Modeler Intern,Design,"Autodesk Maya, 3ds Max, ZBrush, Texturing",Pursuing degree in Animation or Architecture,Hyderabad,₹28000/month
@@ -88,11 +89,11 @@ INT-IT-25-087,Systema,Systems Administrator Intern,Information Technology,"Linux
 INT-FIN-25-088,Compliance Core,Compliance Intern,FinTech,"Regulatory Research, AML, KYC, Documentation",Pursuing degree in Law or Finance,Mumbai,₹31000/month
 INT-MKT-25-089,Affiliate Ace,Affiliate Marketing Intern,Marketing & Advertising,"Partner Outreach, Performance Tracking, Communication",Any degree with good communication skills,Bangalore,₹20000/month
 INT-DS-25-090,GeoSpatial Analytics,GIS Analyst Intern,Data Science & Analytics,"ArcGIS, QGIS, Spatial Analysis, Python",Pursuing Master's in Geography or Geoinformatics,Hyderabad,₹34000/month
-INT-IT-25-091,ThinkTank Labs,AI Ethics Researcher Intern,Information Technology,"Research, Writing, AI Policy, Ethics Frameworks",Pursuing Master's/PhD in CS, Philosophy, or Law,Bangalore,₹40000/month
+INT-IT-25-091,ThinkTank Labs,AI Ethics Researcher Intern,Information Technology,"Research, Writing, AI Policy, Ethics Frameworks",Pursuing Master's/PhD in CS,Bangalore,₹40000/month
 INT-HR-25-092,WellCorp,Corporate Wellness Intern,Human Resources,"Program Coordination, Health Promotion, Communication",Pursuing degree in Health Science or HR,Mumbai,₹22000/month
 INT-MKT-25-093,EmailExperts,Email Marketing Intern,Marketing & Advertising,"Mailchimp, A/B Testing, Campaign Automation, HTML",Any degree with marketing knowledge,Pune,₹21000/month
 INT-IT-25-094,ChipDesign,Embedded Systems Intern,Information Technology,"C, C++, Microcontrollers, RTOS, Circuit Design",Pursuing B.Tech in ECE/EEE,Chennai,₹38000/month
-INT-EDU-25-095,Global University,Study Abroad Counselor Intern,EdTech,"Counseling, University Applications, Visa Process",Any Bachelor's degree, strong communication,Delhi,₹20000/month
+INT-EDU-25-095,Global University,Study Abroad Counselor Intern,EdTech,"Counseling, University Applications, Visa Process",Any Bachelor's degree,Delhi,₹20000/month
 INT-FIN-25-096,VentureNext,Venture Capital Intern,Finance,"Deal Sourcing, Due Diligence, Market Analysis",Pursuing MBA or from a premier engineering college,Bangalore,₹55000/month
 INT-IT-25-097,SynthVoice AI,Speech Recognition Intern,Information Technology,"Python, NLP, Speech Processing, ML Frameworks",Pursuing M.Tech in Signal Processing or CS,Hyderabad,₹47000/month
 INT-MKT-25-098,Conversion Optimize,CRO Intern,Marketing & Advertising,"Google Optimize, A/B Testing, Heatmaps, UX",Any degree with analytics certification,Gurgaon,₹26000/month
@@ -123,7 +124,7 @@ INT-MKT-25-122,ViralVibes Agency,Content Marketing Intern,Marketing & Advertisin
 INT-HR-25-123,HireRight Solutions,HR Analytics Intern,Human Resources,"Excel, Python, Power BI, Data Visualization, SQL",Pursuing MBA in HR with analytics focus,Bangalore,₹28000/month
 INT-EDU-25-124,SkillUp Online,Instructional Design Intern,EdTech,"Articulate Storyline, ADDIE model, E-learning",Pursuing Master's in Instructional Design,Pune,₹24000/month
 INT-IT-25-125,DataSphere Inc.,Database Administrator Intern,Information Technology,"SQL, MySQL, PostgreSQL, Database Management",Pursuing BCA or B.Tech in IT,Chennai,₹30000/month
-INT-DS-25-126,LogicLoop AI,Data Analyst Intern,Data Science & Analytics,"SQL, Excel, Tableau, Python, Communication",Pursuing Bachelor's in Stats, Math, or CS,Gurgaon,₹32000/month
+INT-DS-25-126,LogicLoop AI,Data Science & Analytics,"SQL, Excel, Tableau, Python, Communication",Pursuing Bachelor's in Stats,Gurgaon,₹32000/month
 INT-FIN-25-127,MarketPulse Research,Equity Research Intern,Finance,"Financial Analysis, Equity Valuation, Report Writing",Pursuing CFA or MBA in Finance,Mumbai,₹40000/month
 INT-IT-25-128,Appify Creations,Mobile App Development Intern (Android),Information Technology,"Kotlin, Java, Android Studio, XML, REST APIs",Pursuing B.Tech in Computer Science,Bangalore,₹36000/month
 INT-MKT-25-129,GrowthHackers Digital,SEO Analyst Intern,Marketing & Advertising,"Google Search Console, Ahrefs, SEMrush, On-page SEO",Any degree with SEO certification,Hyderabad,₹23000/month
@@ -140,288 +141,3 @@ INT-ECOM-25-139,StyleUp Fashion,Fashion Merchandising Intern,E-commerce,"Trend A
 INT-MKT-25-140,LeadGen Pro,Sales Intern,Marketing & Advertising,"CRM, Lead Qualification, Cold Calling, Communication",Pursuing BBA or MBA in Sales/Marketing,Pune,₹18000/month
 INT-IT-25-141,CodeCrafters,Full Stack Developer Intern,Information Technology,"MERN Stack (MongoDB, Express, React, Node.js), Git",Pursuing B.Tech in Computer Science,Bangalore,₹38000/month
 INT-DS-25-142,Alpha Analytics,Business Analyst Intern,Data Science & Analytics,"SQL, Tableau, Excel, Requirements Gathering, JIRA",Pursuing MBA or B.Tech,Hyderabad,₹35000/month
-INT-FIN-25-143,SecurePay,Risk Analyst Intern,FinTech,"Risk Assessment, Data Analysis, Excel, SQL",Pursuing degree in Finance, Economics, or Stats,Pune,₹32000/month
-INT-HR-25-144,Culture Connect,Organizational Development Intern,Human Resources,"Change Management, Training, Employee Surveys",Pursuing Master's in Org Psychology or MBA-HR,Mumbai,₹26000/month
-INT-IT-25-145,MobileFirst,iOS App Developer Intern,Information Technology,"Swift, SwiftUI, Xcode, REST APIs, Git",Pursuing B.Tech in Computer Science,Bangalore,₹36000/month
-INT-MKT-25-146,EventMakers,Event Management Intern,Marketing & Advertising,"Event Planning, Vendor Coordination, Budgeting",Pursuing degree in Event Management or Hospitality,Delhi,₹17000/month
-INT-EDU-25-147,TutorMe,Online Tutoring Coordinator,EdTech,"Communication, Scheduling, MS Office, CRM",Any Bachelor's degree,Chennai,₹19000/month
-INT-IT-25-148,TechLeap,IT Support Intern,Information Technology,"Hardware Troubleshooting, Networking, Windows/Mac OS",Pursuing Diploma in IT or BCA,Gurgaon,₹20000/month
-INT-DS-25-149,Predictive Insights,Data Engineering Intern,Data Science & Analytics,"ETL, Apache Spark, Hadoop, SQL, Python, Airflow",Pursuing B.Tech/M.Tech in Computer Science,Bangalore,₹42000/month
-INT-FIN-25-150,WealthWise,Wealth Management Intern,Finance,"Portfolio Analysis, Client Relationship, Market Research",Pursuing MBA in Finance or related certification,Mumbai,₹33000/month
-INT-IT-25-151,WebWeavers,Web Developer Intern,Information Technology,"HTML, CSS, JavaScript, PHP, WordPress",Pursuing BCA or B.Tech in IT/CSE,Pune,₹28000/month
-INT-MKT-25-152,Market Matrix,Market Research Intern,Marketing & Advertising,"Surveys, Data Collection, Excel, SPSS, Report Writing",Pursuing MBA or BBA in Marketing,Hyderabad,₹24000/month
-INT-HR-25-153,Empower HR,Learning and Development Intern,Human Resources,"Training Coordination, Content Creation, LMS",Pursuing MBA in HR,Delhi,₹23000/month
-INT-ECOM-25-154,LogiLink,Logistics Coordinator Intern,E-commerce,"Shipment Tracking, Warehouse Ops, Data Entry",Pursuing BBA or Diploma in Logistics,Mumbai,₹24000/month
-INT-IT-25-155,Cloud Solutions Inc,Solutions Architect Intern,Information Technology,"AWS, Azure, System Design, Solution Documentation",Pursuing M.Tech or B.Tech in CSE/IT,Bangalore,₹44000/month
-INT-DS-25-156,Statistica,Statistical Analyst Intern,Data Science & Analytics,"R, SAS, Statistical Modeling, Hypothesis Testing",Pursuing Master's in Statistics,Chennai,₹35000/month
-INT-FIN-25-157,Acorn Advisory,Management Consulting Intern,Finance,"Problem Solving, PowerPoint, Excel, Communication",Pursuing MBA from a top-tier institute,Gurgaon,₹60000/month
-INT-MKT-25-158,CopyCraft,Copywriting Intern,Marketing & Advertising,"Creative Writing, Ad Copy, SEO Writing, Grammar",Pursuing BA in English, Journalism, or Marketing,Pune,₹18000/month
-INT-IT-25-159,GameOn Studios,Game Developer Intern,Information Technology,"Unity, C#, C++, 3D Modeling, Game Physics",Pursuing B.Tech in Computer Science,Hyderabad,₹35000/month
-INT-DES-25-160,Illustrate It,Illustration Intern,Design,"Adobe Illustrator, Procreate, Digital Painting",Pursuing degree in Fine Arts or Design,Mumbai,₹20000/month
-INT-IT-25-161,Innovatech,R&D Intern (Software),Information Technology,"Algorithm Design, C++, Python, Research",Pursuing M.Tech in Computer Science,Bangalore,₹42000/month
-INT-FIN-25-162,CreditClear,Credit Analyst Intern,FinTech,"Credit Appraisal, Financial Statements, Excel",Pursuing B.Com or MBA in Finance,Pune,₹29000/month
-INT-MKT-25-163,Brand Architects,Brand Management Intern,Marketing & Advertising,"Brand Strategy, Market Analysis, Consumer Behavior",Pursuing MBA in Marketing,Mumbai,₹32000/month
-INT-DS-25-164,TextMine,NLP Intern,Data Science & Analytics,"NLTK, spaCy, Transformers, Python, Text Preprocessing",Pursuing M.Tech in CS with NLP focus,Bangalore,₹48000/month
-INT-HR-25-165,Connect HR,Employee Relations Intern,Human Resources,"Conflict Resolution, HR Policies, Communication",Pursuing MBA in HR or MSW,Delhi,₹21000/month
-INT-ECOM-25-166,FastTrack Deliveries,Operations Intern,E-commerce,"Process Optimization, Data Analysis, Excel, Six Sigma",Pursuing B.Tech or MBA in Operations,Gurgaon,₹30000/month
-INT-EDU-25-167,ClassPlus,Partnership and Alliances Intern,EdTech,"Lead Generation, Communication, Negotiation",Pursuing BBA or MBA in Marketing,Hyderabad,₹25000/month
-INT-IT-25-168,AgileWorks,Scrum Master Intern,Information Technology,"Agile, Scrum, JIRA, Facilitation, Communication",Pursuing B.Tech with Agile certification,Pune,₹33000/month
-INT-MKT-25-169,SnapReels,Video Production Intern,Marketing & Advertising,"Premiere Pro, Final Cut Pro, Videography, Lighting",Pursuing degree in Film or Media Studies,Mumbai,₹22000/month
-INT-FIN-25-170,Quantify Capital,Quantitative Analyst Intern,Finance,"Python, R, C++, Statistical Arbitrage, Algorithms",Pursuing M.Tech/PhD in Quantitative Finance,Bangalore,₹65000/month
-INT-IT-25-171,SecureSphere,Information Security Intern,Information Technology,"SIEM, Vulnerability Assessment, Compliance",Pursuing B.Tech in Cybersecurity,Chennai,₹39000/month
-INT-DS-25-172,CogniCore,Deep Learning Intern,Data Science & Analytics,"TensorFlow, Keras, CNN, RNN, Python",Pursuing M.Tech in AI/ML,Hyderabad,₹50000/month
-INT-MKT-25-173,Alpha SEO,Link Building Intern,Marketing & Advertising,"Off-page SEO, Ahrefs, Outreach, Content Promotion",Any degree, basic SEO knowledge,Delhi,₹16000/month
-INT-IT-25-174,RoboLogic,Robotics Intern,Information Technology,"ROS, C++, Python, SLAM, Embedded Systems",Pursuing B.Tech/M.Tech in Robotics/ECE,Pune,₹40000/month
-INT-HR-25-175,Global Talent,International HR Intern,Human Resources,"Expatriate Management, Cross-cultural Communication",Pursuing MBA in International Business/HR,Gurgaon,₹28000/month
-INT-ECOM-25-176,DigitalMart,Digital Merchandising Intern,E-commerce,"Website Management, Product Listing, SEO, Analytics",Pursuing BBA in Marketing,Bangalore,₹26000/month
-INT-IT-25-177,VRScapes,AR/VR Developer Intern,Information Technology,"Unity, Unreal Engine, C#, 3D Graphics, Blender",Pursuing B.Tech in Computer Science,Hyderabad,₹43000/month
-INT-FIN-25-178,InsurTech Secure,Actuarial Intern,Finance,"Statistical Analysis, Probability, Excel, Python",Pursuing degree in Actuarial Science or Statistics,Mumbai,₹45000/month
-INT-MKT-25-179,PodPulse,Podcast Production Intern,Marketing & Advertising,"Audio Editing (Audacity/Audition), Content Planning",Any degree with audio editing skills,Delhi,₹18000/month
-INT-DS-25-180,BioStat Solutions,Biostatistician Intern,Data Science & Analytics,"R, SAS, Clinical Trials, Survival Analysis",Pursuing Master's in Biostatistics,Pune,₹38000/month
-INT-IT-25-181,Tech Support Pro,Technical Writer Intern,Information Technology,"Technical Documentation, Markdown, Git, Clear Writing",Pursuing B.Tech or BA in English/Technical Comm,Bangalore,₹25000/month
-INT-HR-25-182,Onboard Easy,HR Onboarding Specialist Intern,Human Resources,"Documentation, Coordination, Communication",Pursuing BBA,any stream,Chennai,₹19000/month
-INT-MKT-25-183,PPC Wizards,PPC Intern,Marketing & Advertising,"Google Ads, Bing Ads, Bid Management, A/B Testing",Any degree with Google Ads certification,Gurgaon,₹24000/month
-INT-IT-25-184,DataVault,Data Privacy Analyst Intern,Information Technology,"GDPR, Data Governance, Risk Assessment",Pursuing degree in Law or Information Systems,Mumbai,₹35000/month
-INT-DES-25-185,ArchViz,3D Modeler Intern,Design,"Autodesk Maya, 3ds Max, ZBrush, Texturing",Pursuing degree in Animation or Architecture,Hyderabad,₹28000/month
-INT-ECOM-25-186,GreenCart Organics,Sustainability Intern,E-commerce,"Supply Chain Analysis, CSR, Reporting",Pursuing degree in Environmental Science or Business,Pune,₹23000/month
-INT-IT-25-187,Systema,Systems Administrator Intern,Information Technology,"Linux, Windows Server, Shell Scripting, Networking",Pursuing Diploma or B.Sc in IT,Delhi,₹27000/month
-INT-FIN-25-188,Compliance Core,Compliance Intern,FinTech,"Regulatory Research, AML, KYC, Documentation",Pursuing degree in Law or Finance,Mumbai,₹31000/month
-INT-MKT-25-189,Affiliate Ace,Affiliate Marketing Intern,Marketing & Advertising,"Partner Outreach, Performance Tracking, Communication",Any degree with good communication skills,Bangalore,₹20000/month
-INT-DS-25-190,GeoSpatial Analytics,GIS Analyst Intern,Data Science & Analytics,"ArcGIS, QGIS, Spatial Analysis, Python",Pursuing Master's in Geography or Geoinformatics,Hyderabad,₹34000/month
-INT-IT-25-191,ThinkTank Labs,AI Ethics Researcher Intern,Information Technology,"Research, Writing, AI Policy, Ethics Frameworks",Pursuing Master's/PhD in CS, Philosophy, or Law,Bangalore,₹40000/month
-INT-HR-25-192,WellCorp,Corporate Wellness Intern,Human Resources,"Program Coordination, Health Promotion, Communication",Pursuing degree in Health Science or HR,Mumbai,₹22000/month
-INT-MKT-25-193,EmailExperts,Email Marketing Intern,Marketing & Advertising,"Mailchimp, A/B Testing, Campaign Automation, HTML",Any degree with marketing knowledge,Pune,₹21000/month
-INT-IT-25-194,ChipDesign,Embedded Systems Intern,Information Technology,"C, C++, Microcontrollers, RTOS, Circuit Design",Pursuing B.Tech in ECE/EEE,Chennai,₹38000/month
-INT-EDU-25-195,Global University,Study Abroad Counselor Intern,EdTech,"Counseling, University Applications, Visa Process",Any Bachelor's degree, strong communication,Delhi,₹20000/month
-INT-FIN-25-196,VentureNext,Venture Capital Intern,Finance,"Deal Sourcing, Due Diligence, Market Analysis",Pursuing MBA or from a premier engineering college,Bangalore,₹55000/month
-INT-IT-25-197,SynthVoice AI,Speech Recognition Intern,Information Technology,"Python, NLP, Speech Processing, ML Frameworks",Pursuing M.Tech in Signal Processing or CS,Hyderabad,₹47000/month
-INT-MKT-25-198,Conversion Optimize,CRO Intern,Marketing & Advertising,"Google Optimize, A/B Testing, Heatmaps, UX",Any degree with analytics certification,Gurgaon,₹26000/month
-INT-DS-25-199,EconoMetrics,Econometrics Intern,Data Science & Analytics,"Stata, R, Time Series Analysis, Regression",Pursuing Master's in Economics,Mumbai,₹36000/month
-INT-IT-25-200,AutoDrive Innovations,Autonomous Vehicle Intern,Information Technology,"C++, Python, ROS, Computer Vision, SLAM",Pursuing M.Tech/PhD in Robotics or CS,Pune,₹60000/month
-INT-IT-25-201,CodeGenius Labs,Software Development Intern,Information Technology,"Python, Java, Git, SQL, Data Structures",Pursuing B.Tech in Computer Science,Bangalore,₹35000/month
-INT-FIN-25-202,Capital Crest Finance,Financial Analyst Intern,FinTech,"Financial Modeling, Excel, Data Analysis, Python",Pursuing MBA in Finance or B.Com,Mumbai,₹30000/month
-INT-MKT-25-203,BrandBoosters Inc.,Digital Marketing Intern,Marketing & Advertising,"SEO, SEM, Google Analytics, Social Media Marketing",Pursuing BBA or BA in Communications,Gurgaon,₹22000/month
-INT-DS-25-204,DataWeave Analytics,Data Science Intern,Data Science & Analytics,"Python, R, SQL, Machine Learning, Pandas, NumPy",Pursuing M.Tech or MS in Data Science,Hyderabad,₹40000/month
-INT-HR-25-205,TalentSphere Consulting,Human Resources Intern,Human Resources,"Recruitment, Employee Engagement, MS Office Suite",Pursuing MBA in HR,Pune,₹20000/month
-INT-ECOM-25-206,QuickCart Retail,Supply Chain Intern,E-commerce,"Inventory Management, Logistics, Excel, SQL",Pursuing B.Tech in Industrial Engineering or MBA,Bangalore,₹28000/month
-INT-EDU-25-207,LearnWell EdTech,Content Development Intern,EdTech,"Content Writing, Curriculum Design, Video Editing",Pursuing BA or MA in Education/English,Delhi,₹18000/month
-INT-HLTH-25-208,CureFast Health,Healthcare Management Intern,Healthcare,"Hospital Operations, Patient Care Coordination, MS Excel",Pursuing Master's in Hospital Administration,Chennai,₹25000/month
-INT-IT-25-209,CyberSecure Solutions,Cybersecurity Intern,Information Technology,"Networking, Python, Linux, Penetration Testing",Pursuing B.Tech in CSE/IT with security focus,Pune,₹38000/month
-INT-MKT-25-210,MediaMingle,Social Media Intern,Marketing & Advertising,"Content Creation, Instagram, Facebook Ads, Canva",Pursuing BA in Marketing or Journalism,Mumbai,₹20000/month
-INT-DS-25-211,Insight AI,Machine Learning Intern,Data Science & Analytics,"Python, TensorFlow, PyTorch, Scikit-learn, Deep Learning",Pursuing M.Tech in AI/ML or Computer Science,Bangalore,₹45000/month
-INT-FIN-25-212,InvestRight Partners,Investment Banking Intern,Finance,"Valuation, DCF, Mergers & Acquisitions, PowerPoint",Pursuing CA or MBA in Finance,Mumbai,₹50000/month
-INT-IT-25-213,CodeGenius Labs,Frontend Developer Intern,Information Technology,"HTML, CSS, JavaScript, React, Figma",Pursuing B.Tech in Computer Science or BCA,Hyderabad,₹32000/month
-INT-DES-25-214,PixelPerfect Studios,UI/UX Design Intern,Design,"Figma, Adobe XD, User Research, Wireframing",Pursuing degree in Design or related field,Pune,₹26000/month
-INT-HR-25-215,PeopleFirst Corp,Talent Acquisition Intern,Human Resources,"Sourcing, Interviewing, Applicant Tracking Systems (ATS)",Pursuing BBA or MBA in HR,Gurgaon,₹22000/month
-INT-ECOM-25-216,GlobalBasket,Business Development Intern,E-commerce,"Lead Generation, Market Research, CRM, Communication",Pursuing MBA in Marketing or Sales,Bangalore,₹25000/month
-INT-IT-25-217,Innovate IO,Cloud Computing Intern,Information Technology,"AWS, Azure, Docker, Kubernetes, Linux",Pursuing B.Tech in IT/CSE,Chennai,₹37000/month
-INT-MKT-25-218,AdVantage Media,Graphic Design Intern,Marketing & Advertising,"Adobe Photoshop, Illustrator, Canva, Typography",Pursuing degree in Graphic Design or Fine Arts,Delhi,₹19000/month
-INT-DS-25-219,QuantumLeap AI,AI Research Intern,Data Science & Analytics,"NLP, Computer Vision, Python, Research Papers",Pursuing PhD or Master's in Computer Science,Bangalore,₹55000/month
-INT-FIN-25-220,AccuPay Solutions,Product Manager Intern,FinTech,"Product Roadmapping, Agile, JIRA, Market Analysis",Pursuing MBA or B.Tech with business acumen,Pune,₹42000/month
-INT-IT-25-221,Quantum Systems,Backend Developer Intern,Information Technology,"Node.js, Express, MongoDB, REST APIs, Python",Pursuing B.Tech in Computer Science,Hyderabad,₹34000/month
-INT-MKT-25-222,ViralVibes Agency,Content Marketing Intern,Marketing & Advertising,"Blogging, SEO, WordPress, Content Strategy",Pursuing BA in English or Marketing,Mumbai,₹21000/month
-INT-HR-25-223,HireRight Solutions,HR Analytics Intern,Human Resources,"Excel, Python, Power BI, Data Visualization, SQL",Pursuing MBA in HR with analytics focus,Bangalore,₹28000/month
-INT-EDU-25-224,SkillUp Online,Instructional Design Intern,EdTech,"Articulate Storyline, ADDIE model, E-learning",Pursuing Master's in Instructional Design,Pune,₹24000/month
-INT-IT-25-225,DataSphere Inc.,Database Administrator Intern,Information Technology,"SQL, MySQL, PostgreSQL, Database Management",Pursuing BCA or B.Tech in IT,Chennai,₹30000/month
-INT-DS-25-226,LogicLoop AI,Data Analyst Intern,Data Science & Analytics,"SQL, Excel, Tableau, Python, Communication",Pursuing Bachelor's in Stats, Math, or CS,Gurgaon,₹32000/month
-INT-FIN-25-227,MarketPulse Research,Equity Research Intern,Finance,"Financial Analysis, Equity Valuation, Report Writing",Pursuing CFA or MBA in Finance,Mumbai,₹40000/month
-INT-IT-25-228,Appify Creations,Mobile App Development Intern (Android),Information Technology,"Kotlin, Java, Android Studio, XML, REST APIs",Pursuing B.Tech in Computer Science,Bangalore,₹36000/month
-INT-MKT-25-229,GrowthHackers Digital,SEO Analyst Intern,Marketing & Advertising,"Google Search Console, Ahrefs, SEMrush, On-page SEO",Any degree with SEO certification,Hyderabad,₹23000/month
-INT-ECOM-25-230,ShopSphere,Category Management Intern,E-commerce,"Vendor Management, Excel, Data Analysis, Negotiation",Pursuing MBA in Marketing or Operations,Delhi,₹27000/month
-INT-IT-25-231,ConnectAll Networks,Network Engineer Intern,Information Technology,"Cisco Packet Tracer, TCP/IP, Routing, Switching",Pursuing B.Tech in ECE or CSE,Pune,₹31000/month
-INT-DS-25-232,Visionary AI,Computer Vision Intern,Data Science & Analytics,"OpenCV, Python, PyTorch, Image Processing",Pursuing M.Tech in Computer Science,Bangalore,₹48000/month
-INT-HR-25-233,Workforce Dynamics,Compensation & Benefits Intern,Human Resources,"Excel, Data Analysis, HR Policies, Market Research",Pursuing MBA in HR,Mumbai,₹24000/month
-INT-MKT-25-234,BlueHorizon PR,Public Relations Intern,Marketing & Advertising,"Press Release Writing, Media Relations, Communication",Pursuing BA in Public Relations or Mass Comm,Delhi,₹18000/month
-INT-IT-25-235,Logicware Inc.,QA Testing Intern,Information Technology,"Manual Testing, Selenium, JIRA, Test Cases",Pursuing BCA or B.Tech in any stream,Chennai,₹25000/month
-INT-FIN-25-236,Fintech Innovations,Blockchain Developer Intern,FinTech,"Solidity, Ethereum, Smart Contracts, Web3.js",Pursuing B.Tech in Computer Science,Bangalore,₹45000/month
-INT-DES-25-237,Creative Canvas,Motion Graphics Intern,Design,"Adobe After Effects, Premiere Pro, Illustrator",Pursuing degree in Animation or Design,Mumbai,₹25000/month
-INT-IT-25-238,StackForce,DevOps Intern,Information Technology,"Docker, Jenkins, AWS, Git, Linux Scripting",Pursuing B.Tech in IT/CSE,Hyderabad,₹40000/month
-INT-ECOM-25-239,StyleUp Fashion,Fashion Merchandising Intern,E-commerce,"Trend Analysis, Vendor Sourcing, Inventory Planning",Pursuing degree in Fashion Management,Gurgaon,₹22000/month
-INT-MKT-25-240,LeadGen Pro,Sales Intern,Marketing & Advertising,"CRM, Lead Qualification, Cold Calling, Communication",Pursuing BBA or MBA in Sales/Marketing,Pune,₹18000/month
-INT-IT-25-241,CodeCrafters,Full Stack Developer Intern,Information Technology,"MERN Stack (MongoDB, Express, React, Node.js), Git",Pursuing B.Tech in Computer Science,Bangalore,₹38000/month
-INT-DS-25-242,Alpha Analytics,Business Analyst Intern,Data Science & Analytics,"SQL, Tableau, Excel, Requirements Gathering, JIRA",Pursuing MBA or B.Tech,Hyderabad,₹35000/month
-INT-FIN-25-243,SecurePay,Risk Analyst Intern,FinTech,"Risk Assessment, Data Analysis, Excel, SQL",Pursuing degree in Finance, Economics, or Stats,Pune,₹32000/month
-INT-HR-25-244,Culture Connect,Organizational Development Intern,Human Resources,"Change Management, Training, Employee Surveys",Pursuing Master's in Org Psychology or MBA-HR,Mumbai,₹26000/month
-INT-IT-25-245,MobileFirst,iOS App Developer Intern,Information Technology,"Swift, SwiftUI, Xcode, REST APIs, Git",Pursuing B.Tech in Computer Science,Bangalore,₹36000/month
-INT-MKT-25-246,EventMakers,Event Management Intern,Marketing & Advertising,"Event Planning, Vendor Coordination, Budgeting",Pursuing degree in Event Management or Hospitality,Delhi,₹17000/month
-INT-EDU-25-247,TutorMe,Online Tutoring Coordinator,EdTech,"Communication, Scheduling, MS Office, CRM",Any Bachelor's degree,Chennai,₹19000/month
-INT-IT-25-248,TechLeap,IT Support Intern,Information Technology,"Hardware Troubleshooting, Networking, Windows/Mac OS",Pursuing Diploma in IT or BCA,Gurgaon,₹20000/month
-INT-DS-25-249,Predictive Insights,Data Engineering Intern,Data Science & Analytics,"ETL, Apache Spark, Hadoop, SQL, Python, Airflow",Pursuing B.Tech/M.Tech in Computer Science,Bangalore,₹42000/month
-INT-FIN-25-250,WealthWise,Wealth Management Intern,Finance,"Portfolio Analysis, Client Relationship, Market Research",Pursuing MBA in Finance or related certification,Mumbai,₹33000/month
-INT-IT-25-251,WebWeavers,Web Developer Intern,Information Technology,"HTML, CSS, JavaScript, PHP, WordPress",Pursuing BCA or B.Tech in IT/CSE,Pune,₹28000/month
-INT-MKT-25-252,Market Matrix,Market Research Intern,Marketing & Advertising,"Surveys, Data Collection, Excel, SPSS, Report Writing",Pursuing MBA or BBA in Marketing,Hyderabad,₹24000/month
-INT-HR-25-253,Empower HR,Learning and Development Intern,Human Resources,"Training Coordination, Content Creation, LMS",Pursuing MBA in HR,Delhi,₹23000/month
-INT-ECOM-25-254,LogiLink,Logistics Coordinator Intern,E-commerce,"Shipment Tracking, Warehouse Ops, Data Entry",Pursuing BBA or Diploma in Logistics,Mumbai,₹24000/month
-INT-IT-25-255,Cloud Solutions Inc,Solutions Architect Intern,Information Technology,"AWS, Azure, System Design, Solution Documentation",Pursuing M.Tech or B.Tech in CSE/IT,Bangalore,₹44000/month
-INT-DS-25-256,Statistica,Statistical Analyst Intern,Data Science & Analytics,"R, SAS, Statistical Modeling, Hypothesis Testing",Pursuing Master's in Statistics,Chennai,₹35000/month
-INT-FIN-25-257,Acorn Advisory,Management Consulting Intern,Finance,"Problem Solving, PowerPoint, Excel, Communication",Pursuing MBA from a top-tier institute,Gurgaon,₹60000/month
-INT-MKT-25-258,CopyCraft,Copywriting Intern,Marketing & Advertising,"Creative Writing, Ad Copy, SEO Writing, Grammar",Pursuing BA in English, Journalism, or Marketing,Pune,₹18000/month
-INT-IT-25-259,GameOn Studios,Game Developer Intern,Information Technology,"Unity, C#, C++, 3D Modeling, Game Physics",Pursuing B.Tech in Computer Science,Hyderabad,₹35000/month
-INT-DES-25-260,Illustrate It,Illustration Intern,Design,"Adobe Illustrator, Procreate, Digital Painting",Pursuing degree in Fine Arts or Design,Mumbai,₹20000/month
-INT-IT-25-261,Innovatech,R&D Intern (Software),Information Technology,"Algorithm Design, C++, Python, Research",Pursuing M.Tech in Computer Science,Bangalore,₹42000/month
-INT-FIN-25-262,CreditClear,Credit Analyst Intern,FinTech,"Credit Appraisal, Financial Statements, Excel",Pursuing B.Com or MBA in Finance,Pune,₹29000/month
-INT-MKT-25-263,Brand Architects,Brand Management Intern,Marketing & Advertising,"Brand Strategy, Market Analysis, Consumer Behavior",Pursuing MBA in Marketing,Mumbai,₹32000/month
-INT-DS-25-264,TextMine,NLP Intern,Data Science & Analytics,"NLTK, spaCy, Transformers, Python, Text Preprocessing",Pursuing M.Tech in CS with NLP focus,Bangalore,₹48000/month
-INT-HR-25-265,Connect HR,Employee Relations Intern,Human Resources,"Conflict Resolution, HR Policies, Communication",Pursuing MBA in HR or MSW,Delhi,₹21000/month
-INT-ECOM-25-266,FastTrack Deliveries,Operations Intern,E-commerce,"Process Optimization, Data Analysis, Excel, Six Sigma",Pursuing B.Tech or MBA in Operations,Gurgaon,₹30000/month
-INT-EDU-25-267,ClassPlus,Partnership and Alliances Intern,EdTech,"Lead Generation, Communication, Negotiation",Pursuing BBA or MBA in Marketing,Hyderabad,₹25000/month
-INT-IT-25-268,AgileWorks,Scrum Master Intern,Information Technology,"Agile, Scrum, JIRA, Facilitation, Communication",Pursuing B.Tech with Agile certification,Pune,₹33000/month
-INT-MKT-25-269,SnapReels,Video Production Intern,Marketing & Advertising,"Premiere Pro, Final Cut Pro, Videography, Lighting",Pursuing degree in Film or Media Studies,Mumbai,₹22000/month
-INT-FIN-25-270,Quantify Capital,Quantitative Analyst Intern,Finance,"Python, R, C++, Statistical Arbitrage, Algorithms",Pursuing M.Tech/PhD in Quantitative Finance,Bangalore,₹65000/month
-INT-IT-25-271,SecureSphere,Information Security Intern,Information Technology,"SIEM, Vulnerability Assessment, Compliance",Pursuing B.Tech in Cybersecurity,Chennai,₹39000/month
-INT-DS-25-272,CogniCore,Deep Learning Intern,Data Science & Analytics,"TensorFlow, Keras, CNN, RNN, Python",Pursuing M.Tech in AI/ML,Hyderabad,₹50000/month
-INT-MKT-25-273,Alpha SEO,Link Building Intern,Marketing & Advertising,"Off-page SEO, Ahrefs, Outreach, Content Promotion",Any degree, basic SEO knowledge,Delhi,₹16000/month
-INT-IT-25-274,RoboLogic,Robotics Intern,Information Technology,"ROS, C++, Python, SLAM, Embedded Systems",Pursuing B.Tech/M.Tech in Robotics/ECE,Pune,₹40000/month
-INT-HR-25-275,Global Talent,International HR Intern,Human Resources,"Expatriate Management, Cross-cultural Communication",Pursuing MBA in International Business/HR,Gurgaon,₹28000/month
-INT-ECOM-25-276,DigitalMart,Digital Merchandising Intern,E-commerce,"Website Management, Product Listing, SEO, Analytics",Pursuing BBA in Marketing,Bangalore,₹26000/month
-INT-IT-25-277,VRScapes,AR/VR Developer Intern,Information Technology,"Unity, Unreal Engine, C#, 3D Graphics, Blender",Pursuing B.Tech in Computer Science,Hyderabad,₹43000/month
-INT-FIN-25-278,InsurTech Secure,Actuarial Intern,Finance,"Statistical Analysis, Probability, Excel, Python",Pursuing degree in Actuarial Science or Statistics,Mumbai,₹45000/month
-INT-MKT-25-279,PodPulse,Podcast Production Intern,Marketing & Advertising,"Audio Editing (Audacity/Audition), Content Planning",Any degree with audio editing skills,Delhi,₹18000/month
-INT-DS-25-280,BioStat Solutions,Biostatistician Intern,Data Science & Analytics,"R, SAS, Clinical Trials, Survival Analysis",Pursuing Master's in Biostatistics,Pune,₹38000/month
-INT-IT-25-281,Tech Support Pro,Technical Writer Intern,Information Technology,"Technical Documentation, Markdown, Git, Clear Writing",Pursuing B.Tech or BA in English/Technical Comm,Bangalore,₹25000/month
-INT-HR-25-282,Onboard Easy,HR Onboarding Specialist Intern,Human Resources,"Documentation, Coordination, Communication",Pursuing BBA,any stream,Chennai,₹19000/month
-INT-MKT-25-283,PPC Wizards,PPC Intern,Marketing & Advertising,"Google Ads, Bing Ads, Bid Management, A/B Testing",Any degree with Google Ads certification,Gurgaon,₹24000/month
-INT-IT-25-284,DataVault,Data Privacy Analyst Intern,Information Technology,"GDPR, Data Governance, Risk Assessment",Pursuing degree in Law or Information Systems,Mumbai,₹35000/month
-INT-DES-25-285,ArchViz,3D Modeler Intern,Design,"Autodesk Maya, 3ds Max, ZBrush, Texturing",Pursuing degree in Animation or Architecture,Hyderabad,₹28000/month
-INT-ECOM-25-286,GreenCart Organics,Sustainability Intern,E-commerce,"Supply Chain Analysis, CSR, Reporting",Pursuing degree in Environmental Science or Business,Pune,₹23000/month
-INT-IT-25-287,Systema,Systems Administrator Intern,Information Technology,"Linux, Windows Server, Shell Scripting, Networking",Pursuing Diploma or B.Sc in IT,Delhi,₹27000/month
-INT-FIN-25-288,Compliance Core,Compliance Intern,FinTech,"Regulatory Research, AML, KYC, Documentation",Pursuing degree in Law or Finance,Mumbai,₹31000/month
-INT-MKT-25-289,Affiliate Ace,Affiliate Marketing Intern,Marketing & Advertising,"Partner Outreach, Performance Tracking, Communication",Any degree with good communication skills,Bangalore,₹20000/month
-INT-DS-25-290,GeoSpatial Analytics,GIS Analyst Intern,Data Science & Analytics,"ArcGIS, QGIS, Spatial Analysis, Python",Pursuing Master's in Geography or Geoinformatics,Hyderabad,₹34000/month
-INT-IT-25-291,ThinkTank Labs,AI Ethics Researcher Intern,Information Technology,"Research, Writing, AI Policy, Ethics Frameworks",Pursuing Master's/PhD in CS, Philosophy, or Law,Bangalore,₹40000/month
-INT-HR-25-292,WellCorp,Corporate Wellness Intern,Human Resources,"Program Coordination, Health Promotion, Communication",Pursuing degree in Health Science or HR,Mumbai,₹22000/month
-INT-MKT-25-293,EmailExperts,Email Marketing Intern,Marketing & Advertising,"Mailchimp, A/B Testing, Campaign Automation, HTML",Any degree with marketing knowledge,Pune,₹21000/month
-INT-IT-25-294,ChipDesign,Embedded Systems Intern,Information Technology,"C, C++, Microcontrollers, RTOS, Circuit Design",Pursuing B.Tech in ECE/EEE,Chennai,₹38000/month
-INT-EDU-25-295,Global University,Study Abroad Counselor Intern,EdTech,"Counseling, University Applications, Visa Process",Any Bachelor's degree, strong communication,Delhi,₹20000/month
-INT-FIN-25-296,VentureNext,Venture Capital Intern,Finance,"Deal Sourcing, Due Diligence, Market Analysis",Pursuing MBA or from a premier engineering college,Bangalore,₹55000/month
-INT-IT-25-297,SynthVoice AI,Speech Recognition Intern,Information Technology,"Python, NLP, Speech Processing, ML Frameworks",Pursuing M.Tech in Signal Processing or CS,Hyderabad,₹47000/month
-INT-MKT-25-298,Conversion Optimize,CRO Intern,Marketing & Advertising,"Google Optimize, A/B Testing, Heatmaps, UX",Any degree with analytics certification,Gurgaon,₹26000/month
-INT-DS-25-299,EconoMetrics,Econometrics Intern,Data Science & Analytics,"Stata, R, Time Series Analysis, Regression",Pursuing Master's in Economics,Mumbai,₹36000/month
-INT-IT-25-300,AutoDrive Innovations,Autonomous Vehicle Intern,Information Technology,"C++, Python, ROS, Computer Vision, SLAM",Pursuing M.Tech/PhD in Robotics or CS,Pune,₹60000/month
-INT-IT-25-301,Data Systems,Software Development Intern,Information Technology,"Python, Java, Git, SQL, Data Structures",Pursuing B.Tech in Computer Science,Bangalore,₹35000/month
-INT-FIN-25-302,Summit Finance,Financial Analyst Intern,FinTech,"Financial Modeling, Excel, Data Analysis, Python",Pursuing MBA in Finance or B.Com,Mumbai,₹30000/month
-INT-MKT-25-303,Digital Wave,Digital Marketing Intern,Marketing & Advertising,"SEO, SEM, Google Analytics, Social Media Marketing",Pursuing BBA or BA in Communications,Gurgaon,₹22000/month
-INT-DS-25-304,Quantum Analytics,Data Science Intern,Data Science & Analytics,"Python, R, SQL, Machine Learning, Pandas, NumPy",Pursuing M.Tech or MS in Data Science,Hyderabad,₹40000/month
-INT-HR-25-305,People Partners,Human Resources Intern,Human Resources,"Recruitment, Employee Engagement, MS Office Suite",Pursuing MBA in HR,Pune,₹20000/month
-INT-ECOM-25-306,Express Cart,Supply Chain Intern,E-commerce,"Inventory Management, Logistics, Excel, SQL",Pursuing B.Tech in Industrial Engineering or MBA,Bangalore,₹28000/month
-INT-EDU-25-307,Bright Mind,Content Development Intern,EdTech,"Content Writing, Curriculum Design, Video Editing",Pursuing BA or MA in Education/English,Delhi,₹18000/month
-INT-HLTH-25-308,Wellness Hub,Healthcare Management Intern,Healthcare,"Hospital Operations, Patient Care Coordination, MS Excel",Pursuing Master's in Hospital Administration,Chennai,₹25000/month
-INT-IT-25-309,Fortress Security,Cybersecurity Intern,Information Technology,"Networking, Python, Linux, Penetration Testing",Pursuing B.Tech in CSE/IT with security focus,Pune,₹38000/month
-INT-MKT-25-310,Buzz Factory,Social Media Intern,Marketing & Advertising,"Content Creation, Instagram, Facebook Ads, Canva",Pursuing BA in Marketing or Journalism,Mumbai,₹20000/month
-INT-DS-25-311,Cortex AI,Machine Learning Intern,Data Science & Analytics,"Python, TensorFlow, PyTorch, Scikit-learn, Deep Learning",Pursuing M.Tech in AI/ML or Computer Science,Bangalore,₹45000/month
-INT-FIN-25-312,Alpha Capital,Investment Banking Intern,Finance,"Valuation, DCF, Mergers & Acquisitions, PowerPoint",Pursuing CA or MBA in Finance,Mumbai,₹50000/month
-INT-IT-25-313,Pixel Perfect,Frontend Developer Intern,Information Technology,"HTML, CSS, JavaScript, React, Figma",Pursuing B.Tech in Computer Science or BCA,Hyderabad,₹32000/month
-INT-DES-25-314,Design Works,UI/UX Design Intern,Design,"Figma, Adobe XD, User Research, Wireframing",Pursuing degree in Design or related field,Pune,₹26000/month
-INT-HR-25-315,Hire Hub,Talent Acquisition Intern,Human Resources,"Sourcing, Interviewing, Applicant Tracking Systems (ATS)",Pursuing BBA or MBA in HR,Gurgaon,₹22000/month
-INT-ECOM-25-316,Marketplace Inc.,Business Development Intern,E-commerce,"Lead Generation, Market Research, CRM, Communication",Pursuing MBA in Marketing or Sales,Bangalore,₹25000/month
-INT-IT-25-317,Cloud Corp,Cloud Computing Intern,Information Technology,"AWS, Azure, Docker, Kubernetes, Linux",Pursuing B.Tech in IT/CSE,Chennai,₹37000/month
-INT-MKT-25-318,Creative Fuel,Graphic Design Intern,Marketing & Advertising,"Adobe Photoshop, Illustrator, Canva, Typography",Pursuing degree in Graphic Design or Fine Arts,Delhi,₹19000/month
-INT-DS-25-319,Future AI,AI Research Intern,Data Science & Analytics,"NLP, Computer Vision, Python, Research Papers",Pursuing PhD or Master's in Computer Science,Bangalore,₹55000/month
-INT-FIN-25-320,Pay Core,Product Manager Intern,FinTech,"Product Roadmapping, Agile, JIRA, Market Analysis",Pursuing MBA or B.Tech with business acumen,Pune,₹42000/month
-INT-IT-25-321,Server Side,Backend Developer Intern,Information Technology,"Node.js, Express, MongoDB, REST APIs, Python",Pursuing B.Tech in Computer Science,Hyderabad,₹34000/month
-INT-MKT-25-322,Content King,Content Marketing Intern,Marketing & Advertising,"Blogging, SEO, WordPress, Content Strategy",Pursuing BA in English or Marketing,Mumbai,₹21000/month
-INT-HR-25-323,Data Driven HR,HR Analytics Intern,Human Resources,"Excel, Python, Power BI, Data Visualization, SQL",Pursuing MBA in HR with analytics focus,Bangalore,₹28000/month
-INT-EDU-25-324,E-Learn,Instructional Design Intern,EdTech,"Articulate Storyline, ADDIE model, E-learning",Pursuing Master's in Instructional Design,Pune,₹24000/month
-INT-IT-25-325,DB Solutions,Database Administrator Intern,Information Technology,"SQL, MySQL, PostgreSQL, Database Management",Pursuing BCA or B.Tech in IT,Chennai,₹30000/month
-INT-DS-25-326,Insight Works,Data Analyst Intern,Data Science & Analytics,"SQL, Excel, Tableau, Python, Communication",Pursuing Bachelor's in Stats, Math, or CS,Gurgaon,₹32000/month
-INT-FIN-25-327,Trade Winds,Equity Research Intern,Finance,"Financial Analysis, Equity Valuation, Report Writing",Pursuing CFA or MBA in Finance,Mumbai,₹40000/month
-INT-IT-25-328,App Masters,Mobile App Development Intern (Android),Information Technology,"Kotlin, Java, Android Studio, XML, REST APIs",Pursuing B.Tech in Computer Science,Bangalore,₹36000/month
-INT-MKT-25-329,Rank High,SEO Analyst Intern,Marketing & Advertising,"Google Search Console, Ahrefs, SEMrush, On-page SEO",Any degree with SEO certification,Hyderabad,₹23000/month
-INT-ECOM-25-330,Global Mart,Category Management Intern,E-commerce,"Vendor Management, Excel, Data Analysis, Negotiation",Pursuing MBA in Marketing or Operations,Delhi,₹27000/month
-INT-IT-25-331,Net Works,Network Engineer Intern,Information Technology,"Cisco Packet Tracer, TCP/IP, Routing, Switching",Pursuing B.Tech in ECE or CSE,Pune,₹31000/month
-INT-DS-25-332,Vision AI,Computer Vision Intern,Data Science & Analytics,"OpenCV, Python, PyTorch, Image Processing",Pursuing M.Tech in Computer Science,Bangalore,₹48000/month
-INT-HR-25-333,People Matters,Compensation & Benefits Intern,Human Resources,"Excel, Data Analysis, HR Policies, Market Research",Pursuing MBA in HR,Mumbai,₹24000/month
-INT-MKT-25-334,Media Relations Co,Public Relations Intern,Marketing & Advertising,"Press Release Writing, Media Relations, Communication",Pursuing BA in Public Relations or Mass Comm,Delhi,₹18000/month
-INT-IT-25-335,Test Corp,QA Testing Intern,Information Technology,"Manual Testing, Selenium, JIRA, Test Cases",Pursuing BCA or B.Tech in any stream,Chennai,₹25000/month
-INT-FIN-25-336,Block Chain Inc,Blockchain Developer Intern,FinTech,"Solidity, Ethereum, Smart Contracts, Web3.js",Pursuing B.Tech in Computer Science,Bangalore,₹45000/month
-INT-DES-25-337,Motion Inc,Motion Graphics Intern,Design,"Adobe After Effects, Premiere Pro, Illustrator",Pursuing degree in Animation or Design,Mumbai,₹25000/month
-INT-IT-25-338,Cloud Ops,DevOps Intern,Information Technology,"Docker, Jenkins, AWS, Git, Linux Scripting",Pursuing B.Tech in IT/CSE,Hyderabad,₹40000/month
-INT-ECOM-25-339,Fashion Forward,Fashion Merchandising Intern,E-commerce,"Trend Analysis, Vendor Sourcing, Inventory Planning",Pursuing degree in Fashion Management,Gurgaon,₹22000/month
-INT-MKT-25-340,Sales Force,Sales Intern,Marketing & Advertising,"CRM, Lead Qualification, Cold Calling, Communication",Pursuing BBA or MBA in Sales/Marketing,Pune,₹18000/month
-INT-IT-25-341,Full On,Full Stack Developer Intern,Information Technology,"MERN Stack (MongoDB, Express, React, Node.js), Git",Pursuing B.Tech in Computer Science,Bangalore,₹38000/month
-INT-DS-25-342,Business Intel,Business Analyst Intern,Data Science & Analytics,"SQL, Tableau, Excel, Requirements Gathering, JIRA",Pursuing MBA or B.Tech,Hyderabad,₹35000/month
-INT-FIN-25-343,Risk Assess,Risk Analyst Intern,FinTech,"Risk Assessment, Data Analysis, Excel, SQL",Pursuing degree in Finance, Economics, or Stats,Pune,₹32000/month
-INT-HR-25-344,Org Design,Organizational Development Intern,Human Resources,"Change Management, Training, Employee Surveys",Pursuing Master's in Org Psychology or MBA-HR,Mumbai,₹26000/month
-INT-IT-25-345,Apple Core,iOS App Developer Intern,Information Technology,"Swift, SwiftUI, Xcode, REST APIs, Git",Pursuing B.Tech in Computer Science,Bangalore,₹36000/month
-INT-MKT-25-346,Event Pro,Event Management Intern,Marketing & Advertising,"Event Planning, Vendor Coordination, Budgeting",Pursuing degree in Event Management or Hospitality,Delhi,₹17000/month
-INT-EDU-25-347,Tutor Point,Online Tutoring Coordinator,EdTech,"Communication, Scheduling, MS Office, CRM",Any Bachelor's degree,Chennai,₹19000/month
-INT-IT-25-348,Support Desk,IT Support Intern,Information Technology,"Hardware Troubleshooting, Networking, Windows/Mac OS",Pursuing Diploma in IT or BCA,Gurgaon,₹20000/month
-INT-DS-25-349,Data Flow,Data Engineering Intern,Data Science & Analytics,"ETL, Apache Spark, Hadoop, SQL, Python, Airflow",Pursuing B.Tech/M.Tech in Computer Science,Bangalore,₹42000/month
-INT-FIN-25-350,Money Matters,Wealth Management Intern,Finance,"Portfolio Analysis, Client Relationship, Market Research",Pursuing MBA in Finance or related certification,Mumbai,₹33000/month
-INT-IT-25-351,Web Solutions,Web Developer Intern,Information Technology,"HTML, CSS, JavaScript, PHP, WordPress",Pursuing BCA or B.Tech in IT/CSE,Pune,₹28000/month
-INT-MKT-25-352,Research Co,Market Research Intern,Marketing & Advertising,"Surveys, Data Collection, Excel, SPSS, Report Writing",Pursuing MBA or BBA in Marketing,Hyderabad,₹24000/month
-INT-HR-25-353,Learn Corp,Learning and Development Intern,Human Resources,"Training Coordination, Content Creation, LMS",Pursuing MBA in HR,Delhi,₹23000/month
-INT-ECOM-25-354,Ship It,Logistics Coordinator Intern,E-commerce,"Shipment Tracking, Warehouse Ops, Data Entry",Pursuing BBA or Diploma in Logistics,Mumbai,₹24000/month
-INT-IT-25-355,Architech,Solutions Architect Intern,Information Technology,"AWS, Azure, System Design, Solution Documentation",Pursuing M.Tech or B.Tech in CSE/IT,Bangalore,₹44000/month
-INT-DS-25-356,Stats Co,Statistical Analyst Intern,Data Science & Analytics,"R, SAS, Statistical Modeling, Hypothesis Testing",Pursuing Master's in Statistics,Chennai,₹35000/month
-INT-FIN-25-357,Consulting Firm,Management Consulting Intern,Finance,"Problem Solving, PowerPoint, Excel, Communication",Pursuing MBA from a top-tier institute,Gurgaon,₹60000/month
-INT-MKT-25-358,Word Smith,Copywriting Intern,Marketing & Advertising,"Creative Writing, Ad Copy, SEO Writing, Grammar",Pursuing BA in English, Journalism, or Marketing,Pune,₹18000/month
-INT-IT-25-359,Game Changer,Game Developer Intern,Information Technology,"Unity, C#, C++, 3D Modeling, Game Physics",Pursuing B.Tech in Computer Science,Hyderabad,₹35000/month
-INT-DES-25-360,Art Works,Illustration Intern,Design,"Adobe Illustrator, Procreate, Digital Painting",Pursuing degree in Fine Arts or Design,Mumbai,₹20000/month
-INT-IT-25-361,Research Labs,R&D Intern (Software),Information Technology,"Algorithm Design, C++, Python, Research",Pursuing M.Tech in Computer Science,Bangalore,₹42000/month
-INT-FIN-25-362,Credit Score,Credit Analyst Intern,FinTech,"Credit Appraisal, Financial Statements, Excel",Pursuing B.Com or MBA in Finance,Pune,₹29000/month
-INT-MKT-25-363,Brand Co,Brand Management Intern,Marketing & Advertising,"Brand Strategy, Market Analysis, Consumer Behavior",Pursuing MBA in Marketing,Mumbai,₹32000/month
-INT-DS-25-364,Text Analytics,NLP Intern,Data Science & Analytics,"NLTK, spaCy, Transformers, Python, Text Preprocessing",Pursuing M.Tech in CS with NLP focus,Bangalore,₹48000/month
-INT-HR-25-365,Harmony HR,Employee Relations Intern,Human Resources,"Conflict Resolution, HR Policies, Communication",Pursuing MBA in HR or MSW,Delhi,₹21000/month
-INT-ECOM-25-366,Ops Pro,Operations Intern,E-commerce,"Process Optimization, Data Analysis, Excel, Six Sigma",Pursuing B.Tech or MBA in Operations,Gurgaon,₹30000/month
-INT-EDU-25-367,Partner Up,Partnership and Alliances Intern,EdTech,"Lead Generation, Communication, Negotiation",Pursuing BBA or MBA in Marketing,Hyderabad,₹25000/month
-INT-IT-25-368,Agile Pro,Scrum Master Intern,Information Technology,"Agile, Scrum, JIRA, Facilitation, Communication",Pursuing B.Tech with Agile certification,Pune,₹33000/month
-INT-MKT-25-369,Video Vibes,Video Production Intern,Marketing & Advertising,"Premiere Pro, Final Cut Pro, Videography, Lighting",Pursuing degree in Film or Media Studies,Mumbai,₹22000/month
-INT-FIN-25-370,Quant Pro,Quantitative Analyst Intern,Finance,"Python, R, C++, Statistical Arbitrage, Algorithms",Pursuing M.Tech/PhD in Quantitative Finance,Bangalore,₹65000/month
-INT-IT-25-371,Security First,Information Security Intern,Information Technology,"SIEM, Vulnerability Assessment, Compliance",Pursuing B.Tech in Cybersecurity,Chennai,₹39000/month
-INT-DS-25-372,Deep Dive,Deep Learning Intern,Data Science & Analytics,"TensorFlow, Keras, CNN, RNN, Python",Pursuing M.Tech in AI/ML,Hyderabad,₹50000/month
-INT-MKT-25-373,Link Up,Link Building Intern,Marketing & Advertising,"Off-page SEO, Ahrefs, Outreach, Content Promotion",Any degree, basic SEO knowledge,Delhi,₹16000/month
-INT-IT-25-374,Robo Works,Robotics Intern,Information Technology,"ROS, C++, Python, SLAM, Embedded Systems",Pursuing B.Tech/M.Tech in Robotics/ECE,Pune,₹40000/month
-INT-HR-25-375,Global Hire,International HR Intern,Human Resources,"Expatriate Management, Cross-cultural Communication",Pursuing MBA in International Business/HR,Gurgaon,₹28000/month
-INT-ECOM-25-376,Web Shop,Digital Merchandising Intern,E-commerce,"Website Management, Product Listing, SEO, Analytics",Pursuing BBA in Marketing,Bangalore,₹26000/month
-INT-IT-25-377,Virtual Reality,AR/VR Developer Intern,Information Technology,"Unity, Unreal Engine, C#, 3D Graphics, Blender",Pursuing B.Tech in Computer Science,Hyderabad,₹43000/month
-INT-FIN-25-378,Insurance Co,Actuarial Intern,Finance,"Statistical Analysis, Probability, Excel, Python",Pursuing degree in Actuarial Science or Statistics,Mumbai,₹45000/month
-INT-MKT-25-379,Sound Waves,Podcast Production Intern,Marketing & Advertising,"Audio Editing (Audacity/Audition), Content Planning",Any degree with audio editing skills,Delhi,₹18000/month
-INT-DS-25-380,Bio Data,Biostatistician Intern,Data Science & Analytics,"R, SAS, Clinical Trials, Survival Analysis",Pursuing Master's in Biostatistics,Pune,₹38000/month
-INT-IT-25-381,Docu Write,Technical Writer Intern,Information Technology,"Technical Documentation, Markdown, Git, Clear Writing",Pursuing B.Tech or BA in English/Technical Comm,Bangalore,₹25000/month
-INT-HR-25-382,Join Us,HR Onboarding Specialist Intern,Human Resources,"Documentation, Coordination, Communication",Pursuing BBA,any stream,Chennai,₹19000/month
-INT-MKT-25-383,Ad Words,PPC Intern,Marketing & Advertising,"Google Ads, Bing Ads, Bid Management, A/B Testing",Any degree with Google Ads certification,Gurgaon,₹24000/month
-INT-IT-25-384,Privacy Pro,Data Privacy Analyst Intern,Information Technology,"GDPR, Data Governance, Risk Assessment",Pursuing degree in Law or Information Systems,Mumbai,₹35000/month
-INT-DES-25-385,3D World,3D Modeler Intern,Design,"Autodesk Maya, 3ds Max, ZBrush, Texturing",Pursuing degree in Animation or Architecture,Hyderabad,₹28000/month
-INT-ECOM-25-386,Eco Friendly,Sustainability Intern,E-commerce,"Supply Chain Analysis, CSR, Reporting",Pursuing degree in Environmental Science or Business,Pune,₹23000/month
-INT-IT-25-387,Server Admin,Systems Administrator Intern,Information Technology,"Linux, Windows Server, Shell Scripting, Networking",Pursuing Diploma or B.Sc in IT,Delhi,₹27000/month
-INT-FIN-25-388,Compliance Check,Compliance Intern,FinTech,"Regulatory Research, AML, KYC, Documentation",Pursuing degree in Law or Finance,Mumbai,₹31000/month
-INT-MKT-25-389,Partner Pro,Affiliate Marketing Intern,Marketing & Advertising,"Partner Outreach, Performance Tracking, Communication",Any degree with good communication skills,Bangalore,₹20000/month
-INT-DS-25-390,Geo Data,GIS Analyst Intern,Data Science & Analytics,"ArcGIS, QGIS, Spatial Analysis, Python",Pursuing Master's in Geography or Geoinformatics,Hyderabad,₹34000/month
-INT-IT-25-391,Ethical AI,AI Ethics Researcher Intern,Information Technology,"Research, Writing, AI Policy, Ethics Frameworks",Pursuing Master's/PhD in CS, Philosophy, or Law,Bangalore,₹40000/month
-INT-HR-25-392,Wellness Works,Corporate Wellness Intern,Human Resources,"Program Coordination, Health Promotion, Communication",Pursuing degree in Health Science or HR,Mumbai,₹22000/month
-INT-MKT-25-393,Mail Merge,Email Marketing Intern,Marketing & Advertising,"Mailchimp, A/B Testing, Campaign Automation, HTML",Any degree with marketing knowledge,Pune,₹21000/month
-INT-IT-25-394,Micro Chip,Embedded Systems Intern,Information Technology,"C, C++, Microcontrollers, RTOS, Circuit Design",Pursuing B.Tech in ECE/EEE,Chennai,₹38000/month
-INT-EDU-25-395,Global Ed,Study Abroad Counselor Intern,EdTech,"Counseling, University Applications, Visa Process",Any Bachelor's degree, strong communication,Delhi,₹20000/month
-INT-FIN-25-396,VC Firm,Venture Capital Intern,Finance,"Deal Sourcing, Due Diligence, Market Analysis",Pursuing MBA or from a premier engineering college,Bangalore,₹55000/month
-INT-IT-25-397,Speech AI,Speech Recognition Intern,Information Technology,"Python, NLP, Speech Processing, ML Frameworks",Pursuing M.Tech in Signal Processing or CS,Hyderabad,₹47000/month
-INT-MKT-25-398,Convert Now,CRO Intern,Marketing & Advertising,"Google Optimize, A/B Testing, Heatmaps, UX",Any degree with analytics certification,Gurgaon,₹26000/month
-INT-DS-25-399,Econo Data,Econometrics Intern,Data Science & Analytics,"Stata, R, Time Series Analysis, Regression",Pursuing Master's in Economics,Mumbai,₹36000/month
-INT-IT-25-400,Self Drive,Autonomous Vehicle Intern,Information Technology,"C++, Python, ROS, Computer Vision, SLAM",Pursuing M.Tech/PhD in Robotics or CS,Pune,₹60000/month
-INT-IT-25-401,Code Base,Software Development Intern,Information Technology,"Python, Java, Git, SQL, Data Structures",Pursuing B.Tech in Computer Science,Bangalore,₹35000/month
-INT-FIN-25-402,Money Tree,Financial Analyst Intern,FinTech,"Financial Modeling, Excel, Data Analysis, Python",Pursuing MBA in Finance or B.Com,Mumbai,₹30000/month
-INT-MKT-25-403,Ad Core,Digital Marketing Intern,Marketing & Advertising,"SEO, SEM, Google Analytics, Social Media Marketing",Pursuing BBA or BA in Communications,Gurgaon,₹22000/month
-INT-DS-25-404,Data Corp,Data Science Intern,Data Science & Analytics,"Python, R, SQL, Machine Learning, Pandas, NumPy",Pursuing M.Tech or MS in Data Science,Hyderabad,₹40000/month
-INT-HR-25-405,People Place,Human Resources Intern,Human Resources,"Recruitment, Employee Engagement, MS Office Suite",Pursuing MBA in HR,Pune,₹20000/month
-INT-ECOM-25-406,Ship Fast,Supply Chain Intern,E-commerce,"Inventory Management, Logistics, Excel, SQL",Pursuing B.Tech in Industrial Engineering or MBA,Bangalore,₹28000/month
-INT-EDU-25-407,Edu Tech,Content Development Intern,EdTech,"Content Writing, Curriculum Design, Video Editing",Pursuing BA or MA in Education/English,Delhi,₹18000/month
-INT-HLTH-25-408,Health Care,Healthcare Management Intern,Healthcare,"Hospital Operations, Patient Care Coordination, MS Excel",Pursuing Master's in Hospital Administration,Chennai,₹25000/month
-INT-IT-25-409,Cyber Corp,Cybersecurity Intern,Information Technology,"Networking, Python, Linux, Penetration Testing",Pursuing B.Tech in CSE/IT with security focus,Pune,₹38000/month
-INT-MKT-25-410,Social Hub,Social Media Intern,Marketing & Advertising,"Content Creation, Instagram, Facebook Ads, Canva",Pursuing BA in Marketing or Journalism,Mumbai,₹20000/month
-INT-DS-25-411,AI Labs,Machine Learning Intern,Data Science & Analytics,"Python, TensorFlow, PyTorch, Scikit-learn, Deep Learning",Pursuing M.Tech in AI/ML or Computer Science,Bangalore,₹45000/month
-INT-FIN-25-412,Bank Corp,Investment Banking Intern,Finance,"Valuation, DCF, Mergers & Acquisitions, PowerPoint",Pursuing CA or MBA in Finance,Mumbai,₹50000/month
-INT-IT-25-413,Front End,Frontend Developer Intern,Information Technology,"HTML, CSS, JavaScript, React, Figma",Pursuing B.Tech in Computer Science or BCA,Hyderabad,₹32000/month
-INT-DES-25-414,UI Works,UI/UX Design Intern,Design,"Figma, Adobe XD, User Research, Wireframing",Pursuing degree in Design or related field,Pune,₹26000/month
-INT-HR-25-415,Talent Corp,Talent Acquisition Intern,Human Resources,"Sourcing, Interviewing, Applicant Tracking Systems (ATS)",Pursuing BBA or MBA in HR,Gurgaon,₹22000/month
-INT-ECOM-25-416,Biz Dev,Business Development Intern,E-commerce,"Lead Generation, Market Research, CRM, Communication",Pursuing MBA in Marketing or Sales,Bangalore,₹25000/month
-INT-IT-25-417,Cloud Nine,Cloud Computing Intern,Information Technology,"AWS, Azure, Docker, Kubernetes, Linux",Pursuing B.Tech in IT/CSE,Chennai,₹37000/month
-INT-MKT-25-418,Design Hub,Graphic Design Intern,Marketing & Advertising,"Adobe Photoshop, Illustrator, Canva, Typography",Pursuing degree in Graphic Design or Fine Arts,Delhi,₹19000/month
-INT-DS-25-419,Research AI,AI Research Intern,Data Science & Analytics,"NLP, Computer Vision, Python, Research Papers",Pursuing PhD or Master's in Computer Science,Bangalore,₹55000/month
-INT-FIN-25-420,Product Pro,Product Manager Intern,FinTech,"Product Roadmapping, Agile, JIRA, Market Analysis",Pursuing MBA or B.Tech with business acumen,Pune,₹42000/month
-INT-IT-25-421,Back End,Backend Developer Intern,Information Technology,"Node.js, Express, MongoDB, REST APIs, Python",Pursuing B.Tech in Computer Science,Hyderabad,₹34000/month
-INT-MKT-25-422,Content Co,Content Marketing Intern,Marketing & Advertising,"Blogging, SEO, WordPress, Content Strategy",Pursuing BA in English or Marketing,Mumbai,₹21000/month
-INT-HR-25-423,HR Data,HR Analytics Intern,Human Resources,"Excel, Python, Power BI, Data Visualization, SQL",Pursuing MBA in HR with analytics focus,Bangalore,₹28000/month
-INT-EDU-25-424,Design Learn,Instructional Design Intern,EdTech,"Articulate Storyline, ADDIE model, E-learning",Pursuing Master's in Instructional Design,Pune,₹24000/month
-INT-IT-25-425,Data Base,Database Administrator Intern,Information Technology,"SQL, MySQL, PostgreSQL, Database Management",Pursuing BCA or B.Tech in IT,Chennai,₹30000/month
-INT-DS-25-426,Analyze It,Data Analyst Intern,Data Science & Analytics,"SQL, Excel, Tableau, Python, Communication",Pursuing Bachelor's in Stats, Math, or CS,Gurgaon,₹32000/month
-INT-FIN-25-427,Equity Pro,Equity Research Intern,Finance,"Financial Analysis, Equity Valuation, Report Writing",Pursuing CFA or MBA in Finance,Mumbai,₹40000/month

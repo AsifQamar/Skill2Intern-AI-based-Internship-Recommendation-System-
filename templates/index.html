@@ -11,6 +11,7 @@
 </head>
 <body>
     <header>
+        <div id="google_translate_element"></div>
         <div class="logo-container">
             <img src="https://i.imgur.com/G5g25g3.png" alt="Govt of India Logo" class="logo">
             <span class="logo-text">PM Internship</span>
@@ -129,6 +130,19 @@
             <p id="error-message" class="hidden"></p>
         </div>
     </main>
+
+    <script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement(
+      {pageLanguage: 'en'}, // change 'en' to your site’s default language
+      'google_translate_element'
+    );
+  }
+</script>
+
+<script type="text/javascript" 
+  src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+</script>
     
     <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
