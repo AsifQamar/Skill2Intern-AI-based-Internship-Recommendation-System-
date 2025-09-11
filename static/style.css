@@ -178,4 +178,5 @@ button[type="submit"]:hover { background-color: #e07020; }
     header nav a { margin: 0 10px; }
     .container { margin: 20px; padding: 10px; }
     .recommendation-card { flex-basis: 100%; } /* Cards take full width on small screens */
+    .logo {height : 15px; width : 15px; margin-right : 5px;}
 }
