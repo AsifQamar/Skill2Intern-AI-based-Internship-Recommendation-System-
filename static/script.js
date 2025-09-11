@@ -73,9 +73,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const internship_id = rec.internship_id || 'N/A';
             const sector = rec.sector || 'N/A';
             
-            // Add the Match Score from the backend
-            const score = rec.score ? rec.score.toFixed(0) : 'N/A';
-
             card.innerHTML = `
                 <div class="card-header">
                     <h3>${title}</h3>
@@ -84,9 +81,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="card-details">
                     <p><strong>Internship ID:</strong> ${internship_id}</p>
                     <p><strong>Sector:</strong> ${sector}</p>
-                    <p class="card-stipend">💰 ${stipendText}</p>
-                    <p><strong>📍 Location:</strong> ${location}</p>
-                    <p><strong>🎯 Match Score:</strong> ${score}</p>
+                    <p class="card-stipend">${stipendText}</p>
+                    <p><strong>Location:</strong> ${location}</p>
                 </div>
                 
             `;
