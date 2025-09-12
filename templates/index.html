@@ -11,16 +11,17 @@
 </head>
 <body>
     <header>
-        <div id="google_translate_element"></div>
         <div class="logo-container">
-            <img src="https://i.imgur.com/G5g25g3.png" alt="Govt of India Logo" class="logo">
-            <span class="logo-text">PM Internship</span>
+            <img src="{{url_for('static', filename='pm_internship_logo_eng.svg')}}" alt="Govt of India Logo" class="logo">
+            <img src="{{url_for('static', filename='download.svg')}}" alt="Govt of India Logo" class="logo">
+            <span class="logo-text">PM Internship Scheme</span>
         </div>
         <nav>
             <a href="#">Home</a>
-            <a href="#">Guidelines</a>
-            <a href="#">Eligibility</a>
-            <a href="#" class="login-btn">Login</a>
+            <a href="https://pminternship.mca.gov.in/mca-api/files/get-file-by-path?path=U7k3z9vkJ6yFXfPI%2B4IVSnRblplXd0gMWwC7NmtDz3KvID8OvSm5GlAvf3kWvu8ZUpW3UeOTZFPrNIBREASgbtrFpqIz7BnLJtCXCyGMggExnO0bzUc3TuZU3GtUxLggfEZn4%2Bw4Xkl%2FgEYJJg%3D%3D">Guidelines</a>
+            <a href="https://pminternship.mca.gov.in/login/#eligibility-criteria">Eligibility</a>
+            <a href="https://pminternship.mca.gov.in/login/" class="login-btn">Login</a>
+            <div id="google_translate_element"></div>
         </nav>
     </header>
 
